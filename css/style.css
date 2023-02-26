@@ -1,0 +1,120 @@
+body{
+    width: 100%;
+}
+.header{
+    background-color: #008080;
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    min-height: 100px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.link {
+color: #fff;
+}
+
+/*navigation*/
+
+nav{
+background-color: #C2F2B6;
+padding: 10px;
+text-align: center;
+}
+
+.foto {
+width: 80%;
+margin: 0 auto;
+}
+.contacts-title{
+        font-size: 22px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 27px;
+        color: #161d2a;
+        margin-bottom: 8px;
+}
+
+.contacts-item{
+        margin: 0;
+}
+
+.contacts-type{
+        font-style:normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 24px;
+        color: #16102a;
+        margin-right: 8px;    
+
+}
+
+.contacts-number{
+        font-style:normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        color: #16102a;
+
+}
+
+.contacts-email{
+        font-style:normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        color: #2979ff;
+
+}
+main{
+        
+        background-color: #D1E6E6;
+        padding: 20px; 
+        
+}
+
+h2{
+    font-size: 25px;
+}
+/*sude-bar*/
+aside{
+background-color: #E2F8A6;
+padding: 10px;
+text-align: center;
+
+
+}
+
+.patterns{
+color: #27522C;
+
+}
+
+.side-bar{
+    padding: 20px;
+}
+/*footer*/
+
+.footer{
+    background-color: #8BC4B6;
+    max-height: 100px;
+    text-align: center; 
+    margin: 0 auto;       
+}
+
+.copy{
+font-size: 16px;
+padding: 10px;
+margin: 0;
+color: #7F7F7F;
+}
+
+.info{
+font-size: 10px;
+margin: 0;
+color: #7F7F7F;
+}
+
